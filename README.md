@@ -7,7 +7,7 @@ Full-stack engineer at Paceline. I build AI tools and games, and I care a lot ab
 - [Monster Labs](https://monsterlabs.app): D&D monster and item generator ([source](https://github.com/arhamHumayun/monsterlabs))
 - [synth-music-kit](https://github.com/arhamHumayun/synth-music-kit): a Python synth library a coding agent can compose with. It wrote the Tiny Ship soundtrack.
 - Veilborn: an infinite, AI-enhanced text RPG with real rules
-    10|
+
 **Stack I reach for:** TypeScript, Next.js, Convex, Vercel AI SDK, Zod, shadcn/ui, Godot
 
-**Writing:** [arhamhumayun.com](https://www.arhamhumayun.com/blog), mostly about building with AI coding agents without shipping slop.
+**Writing:** [arhamhumayun.com](https://www.arhamhumayun.com/blog)
